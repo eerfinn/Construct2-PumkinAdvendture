@@ -1,45 +1,30 @@
 # Pumpkin Adventure 🎃
 
-Pumpkin Adventure adalah game platformer klasik yang terinspirasi dari Super Mario, dibuat menggunakan Construct 2. Ini adalah game pertama saya, dan saya ingin berbagi dengan semua orang!
+Pumpkin Adventure is a classic platformer game inspired by Super Mario, built using Construct-2. This is my first game, and I want to share it with everyone!
 
-## 🎮 Cara Bermain
-- Gunakan tombol **panah kiri/kanan** untuk bergerak.
-- Tekan **spasi** untuk melompat.
-- Kumpulkan **pumpkin** untuk mendapatkan skor.
-- Hindari musuh dan rintangan!
+## 🎮 How to Play
+- Use the arrow keys to move.
+- Use the shoot button to attack enemies.
+- Avoid enemies and obstacles!
+- Have fun 😉
 
-## 🚀 Cara Mengakses/Install
+## 🚀 How to Access/Install
 
-### **1. Bermain Langsung di Browser** (Jika menggunakan GitHub Pages)
-Buka link berikut untuk memainkan game ini secara langsung di browser:
+### **1. Play Directly in Browser**
+Open the following link to play the game directly in your browser:
 
-🔗 **[Mainkan Pumpkin Adventure](https://username.github.io/pumpkin-adventure/)**
+🔗 **[Play Pumpkin Adventure](https://eerfinn.github.io/pumpkin-adventure/)**
 
-### **2. Unduh dan Jalankan Secara Lokal**
-Jika ingin menjalankan game secara lokal di komputer:
-1. **Unduh repository ini**
-   ```sh
-   git clone https://github.com/username/pumpkin-adventure.git
-   ```
-2. **Buka folder game**
-   ```sh
-   cd pumpkin-adventure
-   ```
-3. **Jalankan di browser**
-   - Jika game berbasis HTML5, buka `index.html` di browser.
-   - Jika dalam format `.exe`, jalankan file `PumpkinAdventure.exe`.
+### **2. Download and Install Locally (.apk)**
+1. **Download PumpkinAdventure.apk from the app folder**
+2. **Install it on your device**
+3. **Play the game**
 
-## 🛠 Teknologi yang Digunakan
+## 🛠 Technologies Used
 - **Construct 2** - Game Engine
-- **HTML5, JavaScript, dan CSS** (untuk versi web)
+- **HTML5, JavaScript, and CSS**
 
-## 💡 Kontribusi & Saran
-Jika kamu menemukan bug atau ingin memberi saran, jangan ragu untuk membuat **Issue** atau **Pull Request**!
-
-## 📜 Lisensi
-Game ini bersifat **gratis**, tetapi mohon untuk memberikan kredit jika ingin menggunakannya kembali.
-
----
-Made with ❤️ by [Nama Kamu]
-
-
+## 📜 Game Assets
+- https://saurabhkgp.itch.io
+- https://www.gameart2d.com/jack-o-lantern-free-sprites.html
+- https://freesound.org/
