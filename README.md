@@ -1,6 +1,3 @@
-Go here to play this game 🙌
-https://eerfinn.github.io/Construct2-PumkinAdvendture/
-
 # Pumpkin Adventure 🎃
 
 Pumpkin Adventure adalah game platformer klasik yang terinspirasi dari Super Mario, dibuat menggunakan Construct 2. Ini adalah game pertama saya, dan saya ingin berbagi dengan semua orang!
