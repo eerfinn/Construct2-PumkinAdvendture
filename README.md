@@ -13,7 +13,7 @@ Pumpkin Adventure is a classic platformer game inspired by Super Mario, built us
 ### **1. Play Directly in Browser**
 Open the following link to play the game directly in your browser:
 
-🔗 **[Play Pumpkin Adventure](https://eerfinn.github.io/pumpkin-adventure/)**
+🔗 **[Play Pumpkin Adventure](https://eerfinn.github.io/Construct2-PumkinAdvendture/)**
 
 ### **2. Download and Install Locally (.apk)**
 1. Download PumpkinAdventure.apk from the app folder
